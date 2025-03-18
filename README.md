@@ -1,4 +1,4 @@
-# Netflix-Analysis-Using-Excel
+# Netflix-Analysis-Using-Excel 
 
 Dataset Overview:
 The Netflix Titles dataset is a comprehensive compilation of movies and TV shows available on Netflix, covering various aspects such as the title type, director, cast, country of production, release year, rating, duration, genres (listed in), and a brief description. This dataset is instrumental for analyzing trends in Netflix content, understanding genre popularity, and examining the distribution of content across different regions and time periods.
